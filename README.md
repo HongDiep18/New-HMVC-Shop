@@ -1,4 +1,4 @@
-# Welcome to New PHP MVC by TANHONGIT
+# Welcome to New PHP MVC by HONGDIEP
 
 The NEW-MVC-SHOP is a free e-commerce website project for everyone to use. It is built in pure PHP language. And anyone can use it.
 - Customers do not need to know much about technology.
